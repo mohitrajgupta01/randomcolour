@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+div{
+    height: 800px;
+    width: 100%;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+}
+
